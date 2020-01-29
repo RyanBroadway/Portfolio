@@ -13,7 +13,7 @@
 A highly friendly, kind and helpful individual who achieving excellent grades in Maths. Seeking an apprenticeship in the computing industry to build upon a great understanding of computers and obtain some work experience in the computing industry. My eventual career goal is to become a fully-qualified and experienced computer programmer or anything involving computers. I feel I have a good understanding of computing and was disappointed that my GCSE result didn’t reflect this however I am determined to concentrate all my efforts to get a better grade at college.
  
 ## Education & qualifications
-Priory school – 2012-2017
+### Priory school – 2012-2017
   
   Maths – 7
   
@@ -24,7 +24,7 @@ Priory school – 2012-2017
   Classical civilisation – D
   DT – D
  
-Sussex downs – 2017-current
+ ### Sussex downs – 2017-current
   
   English level 2 – 4
   
