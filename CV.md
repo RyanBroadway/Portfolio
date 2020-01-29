@@ -7,27 +7,18 @@
 A highly friendly, kind and helpful individual who achieving excellent grades in Maths. Seeking an apprenticeship in the computing industry to build upon a great understanding of computers and obtain some work experience in the computing industry. My eventual career goal is to become a fully-qualified and experienced computer programmer or anything involving computers. I feel I have a good understanding of computing and was disappointed that my GCSE result didn’t reflect this however I am determined to concentrate all my efforts to get a better grade at college.
  
 ## Education & qualifications
-### Priory school – 2012-2017
-  
-  Maths – 7
-  
-  English literature/language – 2/3
-  
-  Science core/additional– C/C
-  
-  Computing – E
-  
-  Classical civilisation – D
-  
-  DT – D
- 
- ### Sussex downs – 2017-current
-  
-  English level 2 – 4
-  
-  Computing level 2 – Merit
-  
-  Games and Software Development level 3 – predicted grade Merit
+
+  | Subject                        | Exam Board       | Grade                 |
+  |--------------------------------|------------------|-----------------------|
+  | English literature/language    | Pearsons GCSE    | 2/4                   |
+  | Maths                          | AQA GCSE         | 7                     |
+  | Science core/additional        | AQA GCSE         | C/C                   |
+  | Computing                      | OCR GCSE         | E                     |
+  | Classical civilisation         | AQA GCSE         | D                     |
+  | DT                             | Pearson GCSE     | D                     |
+  | Digital Software Practioner    | OCR GCSE         | Merit                 |
+  | Games and Software Development | UAL Level 3 BTEC | predicted grade Merit |
+
 
 ## Work experience
 
