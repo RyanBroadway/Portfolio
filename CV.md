@@ -42,7 +42,7 @@ A highly friendly, kind and helpful individual who achieving excellent grades in
 ### IT helper
 My purpose there was to help out and try all the IT jobs to experience what it is like to do them as a job. The jobs there ranged from helping maintain the servers and the network, trying the helpdesk and listening to real conversations between the helpdesk and a client and help setting up offices with computers, ready to be used.
  
-### Key Responsibilities
+**Key Responsibilities**
 
 -Replace the server tapes in the server room
 
