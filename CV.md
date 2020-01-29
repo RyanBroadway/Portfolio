@@ -20,8 +20,11 @@ A highly friendly, kind and helpful individual who achieving excellent grades in
   English literature/language – 2/3
   
   Science core/additional– C/C
+  
   Computing – E
+  
   Classical civilisation – D
+  
   DT – D
  
  ### Sussex downs – 2017-current
@@ -40,12 +43,17 @@ A highly friendly, kind and helpful individual who achieving excellent grades in
 My purpose there was to help out and try all the IT jobs to experience what it is like to do them as a job. The jobs there ranged from helping maintain the servers and the network, trying the helpdesk and listening to real conversations between the helpdesk and a client and help setting up offices with computers, ready to be used.
  
 ### Key Responsibilities
+
 -Replace the server tapes in the server room
+
 -Set up computers with the right OS and settings, ready to be used
+
 -Fit around 60 working computers into a room with only desks, including mounting the computers, fitting each with a working keyboard and mouse and connecting HDMI, power and Ethernet cables to the monitors and towers
  
 ## Awards and recognition
+
 -Scouts 2010 - 2014
+
 -Was a student leader at priory for 4 years – 2012-2016 
  
 ## Interests
