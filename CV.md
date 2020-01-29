@@ -14,16 +14,22 @@ A highly friendly, kind and helpful individual who achieving excellent grades in
  
 ## Education & qualifications
 Priory school – 2012-2017
+  
   Maths – 7
+  
   English literature/language – 2/3
+  
   Science core/additional– C/C
   Computing – E
   Classical civilisation – D
   DT – D
  
 Sussex downs – 2017-current
+  
   English level 2 – 4
+  
   Computing level 2 – Merit
+  
   Games and Software Development level 3 – predicted grade Merit
 
 ## Work experience
