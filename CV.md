@@ -1,8 +1,11 @@
 #CV
 
 **Ryan Broadway**
+
 **Location: 153 Vale road**
+
 **Telephone: 07531 220617**
+
 **Email:broadwayryan123@gmail.com**
 
 ##Professional profile
