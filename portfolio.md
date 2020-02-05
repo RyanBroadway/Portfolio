@@ -6,7 +6,7 @@
 
 Youtube: 
 <a href="https://www.youtube.com/watch?v=c7pzVrVtOk8
-" target="_blank"><img src="" 
+" target="_blank"><
 alt="example footage" width="240" height="180" border="10" /></a>
 
 <img src="image/game1.PNG" alt="" class="inline"/>
