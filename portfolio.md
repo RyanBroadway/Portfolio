@@ -1,8 +1,8 @@
-#LINK TO GITHUB: https://github.com/RyanBroadway
+# LINK TO GITHUB: https://github.com/RyanBroadway
 
-##CURRENT PROJECT
+## CURRENT PROJECT
 
-###CLICKER GAME
+### CLICKER GAME
 
 Youtube: https://www.youtube.com/watch?v=c7pzVrVtOk8
 
