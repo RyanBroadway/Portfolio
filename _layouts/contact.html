@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <link rel="stylesheet" href="https://unpkg.com/purecss@1.0.1/build/pure-min.css" integrity="sha384-oAOxQR6DkCoMliIh8yFnu25d7Eq/PHS21PClpwjOTeU2jRSq11vu66rf90/cZr47" crossorigin="anonymous">
 
 {% seo %}
   </head>
@@ -32,7 +33,42 @@
 
     <div class="container">
       <section id="main_content">
+        
+
         {{ content }}
+        
+<form action="https://formspree.io/xqkpqrgd"
+  	method="POST">
+
+  <h2>Ryan</h2>
+	
+	<p>
+		<label for="firstname">First Name</label>
+		<input type="text" name="firstname" required>
+	</p>
+	
+	<p>
+		<label for="lastname">Last Name</label>
+		<input type="text" name="lastname" required>
+	</p>
+	
+	<p>
+		<label for="email">Email</label>
+		  <input type="text" name="email" required>
+	</p>
+	
+	<p>
+		<label for="comments">Comments</label>
+		  <textarea name="comments" id="comments" cols="30" rows="10"></textarea>
+	</p>
+	
+	<p>
+		Submit
+		<input type="submit" name="Submit" class="pure-button pure-button-primary">
+	</p>
+	
+</form>
+
       </section>
     </div>
 
