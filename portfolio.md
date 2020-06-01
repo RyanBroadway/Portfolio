@@ -2,6 +2,6 @@
 
 ## CURRENT PROJECT
 <li>
-    <a href="/Portfolio/smlinks">Social Media</a>
+    <a href="/Portfolio/Collage_FMP">Resourec Game</a>
 </li>
 
