@@ -1,4 +1,4 @@
-### RESOURCE MANAGMENT GAME GAME
+### RESOURCE MANAGMENT GAME
 
 ## GAME LINK
 https://simmer.io/@Ryan_Broadway/~8bf3cc9e-686e-c469-3178-ec34578044e1
