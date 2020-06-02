@@ -1,7 +1,7 @@
 ### RESOURCE MANAGMENT GAME
 
 ## GAME LINK
-https://simmer.io/@Ryan_Broadway/~8bf3cc9e-686e-c469-3178-ec34578044e1
+[Game Link](https://simmer.io/@Ryan_Broadway/~8bf3cc9e-686e-c469-3178-ec34578044e1) 
 
 ## VIDEO AND IMAGES
 [![Alt text](https://img.youtube.com/vi/_FviIEySD3A/0.jpg)](https://youtu.be/_FviIEySD3A)
