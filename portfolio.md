@@ -3,7 +3,7 @@
 ## CURRENT PROJECT
 
 <li>
-    <a href="/Portfolio/Collage_FMP">Resource Game</a>
+    
 </li>
  
  
@@ -11,6 +11,7 @@
 
 <li>
     <a href="/Portfolio/Clicker">Clicker Game</a>
+    <a href="/Portfolio/Collage_FMP">Resource Game</a>
 </li>
 
 
