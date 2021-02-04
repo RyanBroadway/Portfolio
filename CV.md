@@ -8,16 +8,17 @@ A highly friendly, kind and helpful individual who achieving excellent grades in
  
 ## Education & qualifications
 
-  | Subject                        | Exam Board       | Grade                 |
-  |--------------------------------|------------------|-----------------------|
-  | English literature/language    | Pearsons GCSE    | 2/4                   |
-  | Maths                          | AQA GCSE         | 7                     |
-  | Science core/additional        | AQA GCSE         | C/C                   |
-  | Computing                      | OCR GCSE         | E                     |
-  | Classical civilisation         | AQA GCSE         | D                     |
-  | DT                             | Pearson GCSE     | D                     |
-  | Digital Software Practioner    | OCR GCSE         | Merit                 |
-  | Games and Software Development | UAL Level 3 BTEC | predicted grade Merit |
+  | Subject                        | Exam Board                 | Grade                 |
+  |--------------------------------|----------------------------|-----------------------|
+  | English literature/language    | Pearsons GCSE              | 2/4                   |
+  | Maths                          | AQA GCSE                   | 7                     |
+  | Science core/additional        | AQA GCSE                   | C/C                   |
+  | Computing                      | OCR GCSE                   | E                     |
+  | Classical civilisation         | AQA GCSE                   | D                     |
+  | DT                             | Pearson GCSE               | D                     |
+  | Digital Software Practioner    | OCR GCSE                   | Merit                 |
+  | Games and Software Development | UAL Level 3 BTEC           | Distinction           |
+  | Digital Media Design           | University of Brighton FDA | Still Ongoing         |
 
 
 ## Work experience
